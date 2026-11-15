@@ -40,5 +40,3 @@ Run it on Windows using:
 - Created Git command documentation.
 - Added a `.gitignore` file.
 - Committed and pushed changes to GitHub.
-
-# GitHub Activities
